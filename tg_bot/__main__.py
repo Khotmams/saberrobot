@@ -29,19 +29,19 @@ PM_START_TEXT = """
 
 Hi {}, My name is {} !
 
-I am saber anime themed bot 
+I am ⚡【𝐆】【𝐔】【𝐄】【𝐒】【𝐓】⚡ anime themed bot 
 
 𝓘 𝓪𝓶 𝓽𝓱𝓮 𝓼𝔀𝓸𝓻𝓭 𝓱𝓮𝓻𝓸  𝓸𝓷𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓗𝓮𝓻𝓸 𝓸𝓯 𝓱𝓸𝓵𝔂 𝓰𝓻𝓪𝓲𝓵 𝔀𝓪𝓻 𝓘 𝓪𝓶 𝓼𝓾𝓶𝓶𝓸𝓷𝓮𝓭 𝓫𝔂 𝓶𝔂 𝓶𝓪𝓼𝓽𝓮𝓻 𝓽𝓸 𝓱𝓮𝓵𝓹 𝓱𝓲𝓶
 
 I HOPE I WILL ABLE TO MAINTAIN YOUR GROUP
 
-MY SUPPORT GROUP IS @fateunion
+MY SUPPORT GROUP IS @yone_support_official
 
 HIT HELP FOR COMMAND /help.
 
 """
 
-BOT_IMG = "https://telegra.ph/file/10cc43e697dec365f0775.jpg"
+BOT_IMG = "https://telegra.ph/file/7931a208394dd37b8830c.jpg"
 
 
 HELP_STRINGS = """
